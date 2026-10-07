@@ -1,9 +1,9 @@
 # Computer Programming: Test Repo
 
-## Daniel Navigue
+## Daniel Navigue.
 
 ### Group A
-### Pip Trevorrow
+### Pip Trevorrow 
 
 This is a repo created just for testing.
 
