@@ -1,9 +1,9 @@
 # Computer Programming: Test Repo
 
-## Samuel Bennington
+## Daniel Navigue
 
-### Group FS4F
-### Duncan Mullier
+### Group A
+### Pip Trevorrow
 
 This is a repo created just for testing.
 
